@@ -1,0 +1,32 @@
+{
+    "now": "Now",
+    "second_ago": "second ago",
+    "seconds_ago": "seconds ago",
+    "minute_ago": "minute ago",
+    "minutes_ago": "minutes ago",
+    "hour_ago": "hour ago",
+    "hours_ago": "hours ago",
+    "day_ago": "day ago",
+    "days_ago": "days ago",
+
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+}

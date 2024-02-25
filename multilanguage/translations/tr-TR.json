@@ -1,0 +1,32 @@
+{
+    "now": "Şimdi",
+    "second_ago": "saniye önce",
+    "seconds_ago": "saniye önce",
+    "minute_ago": "dakika önce",
+    "minutes_ago": "dakika önce",
+    "hour_ago": "saat önce",
+    "hours_ago": "saat önce",
+    "day_ago": "gün önce",
+    "days_ago": "gün önce",
+
+    "monday": "Pazartesi",
+    "tuesday": "Salı",
+    "wednesday": "Çarşamba",
+    "thursday": "Perşembe",
+    "friday": "Cuma",
+    "saturday": "Cumartesi",
+    "sunday": "Pazar",
+
+    "january": "Ocak",
+    "february": "Şubat",
+    "march": "Mart",
+    "april": "Nisan",
+    "may": "Mayıs",
+    "june": "Haziran",
+    "july": "Temmuz",
+    "august": "Ağustos",
+    "september": "Eylül",
+    "october": "Ekim",
+    "november": "Kasım",
+    "december": "Aralık"
+}
